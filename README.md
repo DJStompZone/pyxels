@@ -1,6 +1,6 @@
 # Pyxels
 
-Pyxels is a low-level data manipulation library for Python. It is designed to be fast and efficient, and to provide a simple interface for working with image data. 
+Pyxels is a low-level image data manipulation library for Python. It is designed to be fast and efficient, and to provide a simple interface for working with image data. 
 
 Pyxels is currently in early development, and may not yet be ready for general use.
 
